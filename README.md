@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/<DOI>-<10.6084/m9.figshare.16912768>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
+[![](https://img.shields.io/badge/<DOI>-<10.6084/m9.figshare.16912768>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)](https://doi.org/10.6084/m9.figshare.16912768)
 
   
 # Microbiome data analysis and visualizations with QIIME2 and R - SCRIPTS
